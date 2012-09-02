@@ -1,0 +1,10 @@
+body { font-family: Georgia, "Times New Roman", Times, serif }
+a, a:visited { color: #6DC0A9 }
+a:hover { color: #4A8D75; }
+
+
+header { border-bottom: 1px solid #f0f0f0; padding: 20px 0; }
+
+.content { margin: 80px 0 40px 0; }
+
+footer { border-top: 1px solid #f0f0f0; padding: 20px 0; }

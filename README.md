@@ -1,7 +1,7 @@
 # lst
 
 lst is a simple list-building tool with an email interface, built on Clojure with
-Noir, running on Heroku.
+Noir, sends and receives email with Mailgun and runs on Heroku.
 
 ## Usage
 
