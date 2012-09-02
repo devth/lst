@@ -5,7 +5,7 @@
 (defpage "/" []
          (common/layout
            [:h1 "Start using it right now"]
-           [:p "Email <a href='mailto:a@lst.herokuapp.com'>a@lst.herokuapp.com
+           [:p "Email <a href='mailto:a@lst.mailgun.org'>a@lst.mailgun.org
                </a> to create or update your list."]))
 
 
