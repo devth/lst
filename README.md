@@ -1,19 +1,17 @@
 # lst
 
-A website written in noir. 
+lst is a simple list-building tool with an email interface, built on Clojure with
+Noir, running on Heroku.
 
 ## Usage
 
-If you use cake, substitute 'lein' with 'cake' below. Everything should work fine.
-
-```bash
-lein deps
-lein run
-```
+Email items to a@lst.herokuapp.com (the subject is also considered an "item"). It
+will create your new list or append to your existing list and send the full contents
+to sender.
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2012 Trevor Hartman
 
-Distributed under the Eclipse Public License, the same as Clojure.
-
+Distributed under the [Eclipse Public
+License](http://opensource.org/licenses/eclipse-1.0.php), the same as Clojure.
