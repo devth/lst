@@ -5,7 +5,7 @@ Noir, sends and receives email with Mailgun, and runs on Heroku.
 
 ## Usage
 
-Email items to a@lst.herokuapp.com (the subject is also considered an "item"). It
+Email items to a@lst.mailgun.org (the subject is also considered an "item"). It
 will create your new list or append to your existing list and send the full contents
 to sender.
 
